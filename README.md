@@ -1,16 +1,25 @@
-# Title
+# Exploring customer behavior and the impact of product reviews on Amazon marketplace.
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+
+Started 20 years ago, Amazon completely reshaped the online market.
+Amazon has more than half a billion different products within very diversified categories (book, kitchen equipment, jewelry..).
+
+`todo`
 
 # Research questions
-A list of research questions you would like to address during the project. 
+We will consider the following questions and address them within our project:
+- What is the impact of a review on the product success, depending on its helpfulness and its value
+- Can we distinguish any categories of customers in term of interest and activity on amazon?
+- Within specific categories (e.g. Books), can we find some trends? 
+
+`todo`
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+`todo`
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+`todo`
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+`todo`
