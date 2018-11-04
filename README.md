@@ -21,7 +21,13 @@ We will consider the following questions and address them within our project:
 - What is the success distribution among products within the different categories?
 
 # Dataset
-We will use the Amazon dataset, which contains reviews 
+The main dataset that we are going to use is "Amazon product Data", which contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014. 
+This dataset includes:
+- reviews (i.e. ratings, text, helpfulness votes, customer id)
+- information about products (i.e. images, description, price, category)
+- relations between products (i.e. what products are often bought together)
+We will explore the reviews and try to answer the question we mentioned above.
+We might try and load metadata for further analysis and visualization (e.g. images of products).
 
 # A list of internal milestones up until project milestone 2
 1. 5-11 November
@@ -36,6 +42,3 @@ We will use the Amazon dataset, which contains reviews
     3. Merge our work into a single notebook
 3. 20-25 November
     1. Extra time for debugging, reviewing, and ensuring what we provided is coherent
-
-# Questions for TAa
-`todo`
