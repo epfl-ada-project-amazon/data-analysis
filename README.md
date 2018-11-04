@@ -16,7 +16,7 @@ We will consider the following questions and address them within our project:
 - What is the impact of the first customer review?
 - Can we distinguish categories of customers in term of interest and activity on amazon?
 - Within specific categories (e.g. Books), can we find trends?
-- What is the success distribution among products within all the categories?
+- What is the success distribution among products within the different categories?
 
 # Dataset
 `todo`
