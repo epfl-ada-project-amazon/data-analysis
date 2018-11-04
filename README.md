@@ -25,7 +25,7 @@ We will consider the following questions and address them within our project:
 1. 5-11 November
     1. Retrieve all the data we need.
     2. First draft of a data story we will tell.
-    3. Clarify the questions we will address to fit the data story.
+    3. Clarify the questions we will address to fit a story.
     4. Decide what methods we will use to address the questions depending on the data we have
     5. Each of us 3 will chose to address some of these questions
 2. 12-19 November
