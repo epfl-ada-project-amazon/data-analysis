@@ -4,11 +4,12 @@
 
 Started 20 years ago, Amazon completely reshaped the online market.
 Amazon has more than half a billion different products within very diversified categories (book, kitchen equipment, jewelry..).
-
 This growth had an impact on how people sell and buy on the platform.
 Customer reviews have a crucial importance on the choices customer make before buying a product.
-
-Our goal is to get valuable insights of the Amazon landscape `todo`
+We aim to decide in what way customer reviews are relevant, how do a review influences the following, what are the keywords in reviews per category, etc
+In short, we want to address the question of how do customer reviews affect products on Amazon.
+We want to find efficient ways to make visualization of products trends, and find relevant information about products, such as clusters of "often bought together" products.
+In short, our goal is to get valuable insights of the Amazon landscape using customer reviews and product metadata.
 
 # Research questions
 We will consider the following questions and address them within our project:
@@ -19,7 +20,7 @@ We will consider the following questions and address them within our project:
 - What is the success distribution among products within the different categories?
 
 # Dataset
-`todo`
+We will use the Amazon dataset, which contains reviews 
 
 # A list of internal milestones up until project milestone 2
 1. 5-11 November
