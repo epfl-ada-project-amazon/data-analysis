@@ -1,16 +1,15 @@
 # Exploring customer behavior and the impact of product reviews on Amazon marketplace.
 
 # Abstract
-
 Started 20 years ago, Amazon completely reshaped the online market.
 Amazon has more than half a billion different products within very diversified categories (book, kitchen equipment, jewelry..).
 This growth had an impact on how people sell and buy on the platform.
-Because there is so many choice, we might think that customer reviews have a crucial importance on the choices customer make before buying a product.
-We aim to find out in what way customer reviews are relevant, and what is their overall influence on the product success.
+Because there are so many products, we might think that customer reviews have a crucial importance on the choices customer make before buying a product.
+Because customer reviews are a form of social interaction within the online marketplace, we aim to find out in what way customer reviews are relevant, and what is their overall influence on the product success.
 Is a first bad review a red flag for customers?
 A popular claim is that some people are paid (or offered a product for free), in exchange for a good review. Can we detect such cases if they exist?
 We will study efficient ways to make visualization of products trends, and find relevant information about products, such as clusters of "often bought together" products.
-In short, our goal is to get valuable insights of the Amazon landscape using customer reviews and product metadata.
+In short, our goal is to get valuable insights of the Amazon landscape using customer reviews and product metadata, and focus on customer behaviors on the online marketplace.
 
 # Research questions
 We will consider the following questions and address them within our project:
