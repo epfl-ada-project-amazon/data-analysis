@@ -16,7 +16,7 @@ We will consider the following questions and address them within our project:
 - Is there an impact of a customer review on the product success, depending on its content?
 - What is the impact of a first customer review (good/bad) on products?
 - Can we distinguish categories of customers in term of interest and activity on amazon?
-- Within specific categories (e.g. Books), can we detect trends and find a way to visualize them in a efficient manner?
+- Within specific categories (e.g. books), can we detect trends and find a way to visualize them in a efficient manner?
 - What is the success distribution among products within the different categories?
 
 # Dataset
@@ -30,9 +30,9 @@ We might try and load metadata for further analysis and visualization (e.g. imag
 
 # A list of internal milestones up until project milestone 2
 1. 5-11 November
-    1. Retrieve all the data we need.
-    2. First draft of a data story we will tell.
-    3. Clarify the questions we will address to fit a story.
+    1. Retrieve all the data we need
+    2. First draft of a data story we will tell
+    3. Clarify the questions we will address to fit a story
     4. Decide what methods we will use to address the questions depending on the data we have
     5. Each of us 3 will chose to address some of these questions
 2. 12-19 November
