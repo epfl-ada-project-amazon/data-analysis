@@ -13,11 +13,11 @@ In short, our goal is to get valuable insights of the Amazon landscape using cus
 
 # Research questions
 We will consider the following questions and address them within our project:
-- Is there an impact of a customer review on the product success, depending on its content?
-- What is the impact of a first customer review (good/bad) on products?
-- Can we distinguish categories of customers in term of interest and activity on amazon?
-- Within specific categories (e.g. books), can we detect trends and find a way to visualize them in a efficient manner?
-- What is the success distribution among products within the different categories?
+- Is there an impact of a customer review on the product success, depending on its content?  *Maintained 
+- What is the impact of a first customer review (good/bad) on products? * Maintained
+- Can we distinguish categories of customers in term of interest and activity on amazon?  * Maintained
+- Within specific categories (e.g. books), can we detect trends and find a way to visualize them in a efficient manner?	* Dropped
+- What is the success distribution among products within the different categories?  *Dropped
 
 # Dataset
 The main dataset that we are going to use is "Amazon product Data", which contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014. 
