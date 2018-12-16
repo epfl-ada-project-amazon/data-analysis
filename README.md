@@ -1,8 +1,8 @@
-# Exploring customer behavior and the impact of product reviews on Amazon marketplace.
+# Exploring customer behavior on Amazon
 
-[Data Story](https://epfl-ada-project-amazon.github.io/)
+[Data Story](https://epfl-ada-project-amazon.github.io/data-story/)
 
-[Repo of the data story](https://github.com/epfl-ada-project-amazon/epfl-ada-project-amazon.github.io)
+[Repo of the data story](https://github.com/epfl-ada-project-amazon/data-story)
 
 # Abstract
 Started 20 years ago, Amazon completely reshaped the online market.
